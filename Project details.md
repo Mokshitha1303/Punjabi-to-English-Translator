@@ -1,5 +1,4 @@
-# Punjabi-to-English-Translator
-This is a model that is built to traslate Punjabi to English and English to Punjabi
+
 <h1>Punjabi to English Neural Machine Translation</h1>
 
 <p>This project implements a sequence-to-sequence (seq2seq) model for translating Punjabi text to English. It leverages an encoder-decoder architecture with attention mechanism for better translation quality.</p>
